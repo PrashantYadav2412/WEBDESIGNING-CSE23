@@ -1,0 +1,29 @@
+body {
+    margin:0;
+    padding:0;
+    background-image:url('butterfly.jpg');
+    background-color:pink;
+    background-position:top left ;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+    font-weight:700;
+
+    color:yellow;
+    text-align:center;
+    text-decoration:dashed;
+    text-transform:capitalize;
+    letter-spacing:2px;
+}
+#para{
+   color:hotpink;
+    font-size:x-large;
+    display:flex;
+}
+img{
+    float:left;
+    
+}
